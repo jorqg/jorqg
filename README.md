@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tu+Nombre+Aquí;Desarrollador+Python;Especialista+en+IA+y+Modelos;Experto+en+Big+Data;Apps+Móviles+y+Escritorio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=jorqgo;Desarrollador+Python;Especialista+en+IA+y+Modelos;Experto+en+Big+Data;Apps+Móviles+y+Escritorio" alt="Typing SVG" />
 
 ---
 
@@ -16,7 +16,6 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Kivy](https://img.shields.io/badge/Kivy-%23FFFFFF.svg?style=for-the-badge&logo=Kivy&logoColor=black)
