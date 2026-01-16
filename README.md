@@ -16,15 +16,22 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 ### 🛠️ Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2ecc71?style=for-the-badge&logo=brainly&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1abc9c?style=for-the-badge&logo=mindmeister&logoColor=white)
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-%23FFFFFF.svg?style=for-the-badge&logo=Kivy&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-FF6000?style=for-the-badge&logo=apache-nifi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
