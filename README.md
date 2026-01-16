@@ -1,7 +1,7 @@
 <div align="center">
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=27AE60&center=true&vCenter=true&width=600&lines=👋¡Hola_soy_Jorge;Desarrollador+Python;Especialista+en+IA+y+Modelos;Experto+en+Big+Data;Apps+Móviles+y+Escritorio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=27AE60&center=true&vCenter=true&width=600&lines=👋¡Hola_soy_Jorge!;Desarrollador+Python;Especialista+en+IA+y+Modelos;Experto+en+Big+Data;Apps+Móviles+y+Escritorio)](https://git.io/typing-svg)
 
 ---
 
@@ -28,8 +28,8 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorqgo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
