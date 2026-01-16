@@ -27,10 +27,11 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  [![Typing SVG](https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight" alt="Stats de GitHub)]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorqgo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight" alt="Stats de jorqgo" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorqgo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 
 ---
 
