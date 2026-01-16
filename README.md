@@ -28,7 +28,7 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
+  [![Typing SVG](https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight" alt="Stats de GitHub)]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorqgo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
@@ -36,6 +36,6 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 
 ### 📫 ¿Cómo contactarme?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorqgo@gmail.com)
 
 </div>
