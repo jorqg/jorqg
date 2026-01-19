@@ -24,8 +24,7 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-%23FFFFFF.svg?style=for-the-badge&logo=Kivy&logoColor=black)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-FF6000?style=for-the-badge&logo=apache-nifi&logoColor=white)
