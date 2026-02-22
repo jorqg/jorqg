@@ -34,14 +34,6 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas de GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=jorqgo&show_icons=true&theme=tokyonight&border_color=27AE60&icon_color=27AE60&title_color=27AE60" alt="Stats de jorqgo" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorqgo&layout=compact&theme=tokyonight&border_color=27AE60" alt="Lenguajes más usados" />
 
 ---
 
