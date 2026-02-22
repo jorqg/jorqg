@@ -46,7 +46,7 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 ---
 
 ### 📫 ¿Cómo contactarme?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-quintana-gonz%C3%A1lez-84a98b270/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorqgo@gmail.com)
 
 </div>
