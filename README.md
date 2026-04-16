@@ -30,7 +30,7 @@ abarcando desde el desarrollo de aplicaciones multiplataforma hasta el entrenami
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Flet](https://img.shields.io/badge/flet-%23000000.svg?style=for-the-badge&logo=flet&logoColor=00d2ff)
+![Flet](https://img.shields.io/badge/Flet-%23000000.svg?style=for-the-badge&labelColor=00d2ff&color=000000)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
